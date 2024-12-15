@@ -13,7 +13,7 @@ body {
 .matrix img {
   width: 100%;
 }
-.matrix .more-information {
+.matrix .link-for-more-information {
   font-family: fantasy, cursive;
 }
 
@@ -22,7 +22,7 @@ body {
   text-align: center;
 }
 }
-.add-item-element {
+.item-elements {
   display: block;
   width: 500px;
   margin: 0 auto 0;
